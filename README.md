@@ -1,3 +1,7 @@
+## Description
+
+This template is a pre-configured NextJS setup that uses tailwind with postcss and autoprefixer.
+
 ## Getting Started
 
 To use this template, you should first create another repository that will serve as your project's repo. Once you have it created, you can clone this template and your project's repo to your local disk.
